@@ -1,0 +1,3 @@
+main作为qiankun的主文件,壳
+vue2-demo是以vue2作为技术栈的子模块
+main与vue2-demo作为示例,已完成微前端示例
